@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go_refresh&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../gocookie" />
+      <root url="file://$PROJECT_DIR$/../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../gofunctions" />
+      <root url="file://$PROJECT_DIR$/../CSCI_130" />
+      <root url="file://$PROJECT_DIR$/../SummerBootCamp" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../gocookie" />
+      <root url="file://$PROJECT_DIR$/../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../gofunctions" />
+      <root url="file://$PROJECT_DIR$/../CSCI_130" />
+      <root url="file://$PROJECT_DIR$/../SummerBootCamp" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../goWeb" />
+    </excluded>
+  </library>
+</component>

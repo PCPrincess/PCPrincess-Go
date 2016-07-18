@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;goWeb&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/.idea" />
+      <root url="file://$PROJECT_DIR$/../gocookie" />
+      <root url="file://$PROJECT_DIR$/../gofunctions" />
+      <root url="file://$PROJECT_DIR$/../CSCI_130" />
+      <root url="file://$PROJECT_DIR$/../SummerBootCamp" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/WebApp_Polymer" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/WebStarterKit" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/myapp" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../f15_advWeb_finalProject" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../GolangTraining" />
+      <root url="file://$PROJECT_DIR$/../golang-web" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/.idea" />
+      <root url="file://$PROJECT_DIR$/../gocookie" />
+      <root url="file://$PROJECT_DIR$/../gofunctions" />
+      <root url="file://$PROJECT_DIR$/../CSCI_130" />
+      <root url="file://$PROJECT_DIR$/../SummerBootCamp" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/WebApp_Polymer" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/WebStarterKit" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/myapp" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../f15_advWeb_finalProject" />
+      <root url="file://$PROJECT_DIR$/../../../WebWorkspace/WebWithGo/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../GolangTraining" />
+      <root url="file://$PROJECT_DIR$/../golang-web" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

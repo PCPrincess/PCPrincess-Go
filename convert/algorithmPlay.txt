@@ -1,0 +1,32 @@
+  var input = Scan()
+  func byTwo(input int){input / 2} 
+  func rem(input int){input % 2}
+
+  2^x == 10
+  sqroot(2^x) == sqroot(10) = 3.16 approx 3
+
+  binDigits := [10]int{default: 0}
+
+  binDigits = binaryConv(approx, binDigits)
+
+  func binaryConv(entry int, sliceInt []int) []int {
+    var i = 0, var leftOver = byTwo
+    for leftOver >= 0
+    for i < entry {
+        sliceInt[entry] = 1
+        leftOver = byTwo - entry^2 //decimal number
+        rem := rem(leftOver)
+        if leftOver == 0 {
+          if rem == 0 {
+          break  
+          }
+          else {
+            sliceInt[0] = 1
+            break
+          }
+        }   
+        entry = byTwo(leftOver)    
+        }
+        return sliceInt        
+    }  
+  }
